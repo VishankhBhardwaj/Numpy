@@ -1,0 +1,12 @@
+10
+20
+NaN  to yha to trend ke hisaab se 30 askta haina
+40
+50
+
+
+linear
+
+
+1- preserve data integrity
+2- smooth trends
